@@ -46,7 +46,9 @@ The business implications during media planning are:
     <img src="/Images/Img4.PNG" width="1500" height="450">
 </p>
 
-
+<p align="center">
+    <img src="/Images/Img5.PNG" width="1500" height="450">
+</p>
 
 
 
