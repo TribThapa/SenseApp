@@ -13,8 +13,12 @@ Briefly, findings from our research show:
 
 <p>&nbsp;</p>
 
-The business implications for our findings above are:
-1.
+The business implications during media planning are:
+1. Integrate podcasts as an audio strategy in your media plans.
+2. Embed the human element through voice to build connection with your consumer.
+3. Amplify audio effectiveness by using a familiar & trustworthy voice (e.g., radio or podcast personality).​ 
+4. Adopting an omnichannel audio strategy can amplify overall campaign effectiveness.
+5. Points 1-5 can help drive brand awareness, brand discovery, and brand attention.  
 
 
 <p>&nbsp;</p>
