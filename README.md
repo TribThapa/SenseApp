@@ -6,8 +6,6 @@
     <img src="/Images/Img1.PNG" width="1500" height="450">
 </p>
 
-<p>&nbsp;</p>
-
 Briefly, findings from our research show:
 1. There is power in the human voice - we lean in and listen to those we know.
 2. Podcast environments help make content memorable.
