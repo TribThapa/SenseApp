@@ -2,6 +2,10 @@
 
 #### This repository informs ways to improve advertising performance and translate human responses to marketing.
 
+<p align="center">
+    <img src="/Images/Img1.PNG" width="1500" height="450">
+</p>
+
 <p>&nbsp;</p>
 
 Briefly, findings from our research show:
