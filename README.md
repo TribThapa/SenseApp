@@ -24,12 +24,18 @@ The business implications during media planning are:
 
 The evidence:
 
-Finding #1
+### Finding #1 - Power of voice.
+
 <p align="center">
     <img src="/Images/Img2.PNG" width="1500" height="450">
 </p>
 
 
+### Finding #2 - Understanding the Podcast environement.
+
+<p align="center">
+    <img src="/Images/Img3.PNG" width="1500" height="450">
+</p>
 
 
 ## Sources
