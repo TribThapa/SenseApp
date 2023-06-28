@@ -7,9 +7,9 @@
 </p>
 
 Briefly, findings from our research show:
-1. There is power in the human voice - we lean in and listen to those we know.
-2. Podcast environments help make content memorable.
-3. Audio as a channel primes listeners to other media outlets like TV, Out-Of-Home, and Social Media.
+1. Power in the human voice - We lean in and listen to those we know.
+2. Know your the environment of your channel - Podcast environments help make content memorable.
+3. Understand the order effect - Audio as a channel primes listeners to other media outlets like TV, Out-Of-Home, and Social Media.
 
 <p>&nbsp;</p>
 
@@ -30,12 +30,25 @@ The evidence:
     <img src="/Images/Img2.PNG" width="1500" height="450">
 </p>
 
+<p>&nbsp;</p>
 
-### Finding #2 - Understanding the Podcast environement.
+### Finding #2 - Know your environment.
 
 <p align="center">
     <img src="/Images/Img3.PNG" width="1500" height="450">
 </p>
+
+<p>&nbsp;</p>
+
+### Finding #2 - Understand the order effect.
+
+<p align="center">
+    <img src="/Images/Img4.PNG" width="1500" height="450">
+</p>
+
+
+
+
 
 
 ## Sources
