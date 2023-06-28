@@ -20,8 +20,16 @@ The business implications during media planning are:
 4. Adopting an omnichannel audio strategy can amplify overall campaign effectiveness.
 5. Points 1-5 can help drive brand awareness, brand discovery, and brand attention.  
 
-
 <p>&nbsp;</p>
+
+The evidence:
+
+Finding #1
+<p align="center">
+    <img src="/Images/Img2.PNG" width="1500" height="450">
+</p>
+
+
 
 
 ## Sources
